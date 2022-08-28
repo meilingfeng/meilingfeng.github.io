@@ -10,7 +10,7 @@
 ## About Me
 I am a PHD student in the UConn EEB department
 interested in the intersection of human, ecological, and climate conservation priorities.
-[My CV](PDFs/cv.pdf)
+[My CV](PDFs/Feng_CV_2022.pdf)
 [Contact Info](contact-info.html)
 
 
