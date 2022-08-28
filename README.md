@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-![Image of Mei-Ling Feng](images/headshot.png
+![Image of Mei-Ling Feng](images/headshot.jpeg
 "Mei-Ling Feng, profile photo. Has short dark brown hair, Chinese-White in ethnicity, mid-twenties, uses she/they pronouns. Standing in front of a waterfall in New Hampshire, USA.")
 ## About Me
 I am a PHD student in the UConn EEB department
