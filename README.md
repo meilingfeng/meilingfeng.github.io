@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-![Image of REPLACE_WITH_YOUR_NAME](images/headshot.png
+![Image of Mei-Ling Feng](images/headshot.png
 "Mei-Ling Feng, profile photo. Has short dark brown hair, Chinese-White in ethnicity, mid-twenties, uses she/they pronouns. Standing in front of a waterfall in New Hampshire, USA.")
 ## About Me
 I am a PHD student in the UConn EEB department
@@ -13,6 +13,8 @@ interested in the intersection of human, ecological, and climate conservation pr
 [My CV](PDFs/cv.pdf)
 [Contact Info](contact-info.html)
 
+
+</details>
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
