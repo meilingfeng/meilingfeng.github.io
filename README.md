@@ -14,7 +14,7 @@ interested in the intersection of human, ecological, and climate conservation pr
 [Contact Info](contact-info.html)
 
 
-</details>
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
