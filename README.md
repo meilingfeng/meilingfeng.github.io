@@ -10,15 +10,15 @@
 ## About Me
 I am a PHD student in the [Elphick Lab](https://elphick.lab.uconn.edu/) and [Ecology and Evolutionary Biology Department](https://eeb.uconn.edu/) at the University of Connecticut. I am interested in how conservationists prioritize restoration and conservation efforts and how these priorities can simultaneously benefit human well-being, biodiversity, and climate mitigation. Much of my work looks at spatial and temporal patterns. For example, where are species, natural resources, and people distributed across the landscape in relationship to each other? By looking for overlap between vulnerable natural resources, human communities, and infrastructure, we can help collaborators decide on where to invest in green spaces for people and nature. 
 
-[Research](Research.html)
+[Research](research.html)
 
-[Publications](Publications.html)
+[Publications](publications.html)
 
-[Art and Photography](Art.html)
+[Art and Photography](art.html)
 
 [My CV](PDFs/Feng_CV_2022.pdf)
 
-[Contact Info](Contact.html)
+[Contact Info](contact-info.html)
 
 
 
