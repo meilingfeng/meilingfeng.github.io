@@ -12,7 +12,9 @@ I am a PHD student in the [Elphick Lab](https://elphick.lab.uconn.edu/) and [Eco
 
 [Research](research.html)
 
-[Art](art.html)
+[Publications](publications.html)
+
+[Art and Photography](art.html)
 
 [My CV](PDFs/Feng_CV_2022.pdf)
 
