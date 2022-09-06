@@ -12,5 +12,6 @@ layout: default
 ![Eastern Sierra2](images/photos/sierra2.png)
 ![San Juan](images/photos/PR.png)
 ![Beach](images/photos/beach.png)
+![Fall](images/photos/fall.png)
 
 [Back to Home](https://meilingfeng.github.io/)
