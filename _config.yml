@@ -6,4 +6,16 @@ plugins:
 
 
 title: Mei-Ling (Emily) Feng
-description: A collection of research and projects
+#description: A collection of research and projects
+
+header_pages:
+
+   - About.md
+
+   - Research.md
+
+   - Publications.md
+
+   - Art.md
+
+   - Contact.md
